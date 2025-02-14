@@ -51,7 +51,6 @@ public class Velo {
 	public String toString() {
 		return("Velo [ braquet = " + braquet + ", diamRoue = " + diamRoue +"]");
 	}
-	
 	public double getPuissance(double FrequenceCoupsDePedale) {
 		return (FrequenceCoupsDePedale * braquet * diamRoue *genAlea.nextDouble());
 	}
