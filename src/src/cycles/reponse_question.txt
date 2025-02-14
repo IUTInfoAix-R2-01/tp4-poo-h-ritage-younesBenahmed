@@ -1,0 +1,11 @@
+Ex 5 : 
+on modifie le comportement en gardant la même signature, elle permet juste à s'adapter ou l'amliorer son comprtement hérite d'une classe mèere
+
+Ex 6 : 
+Nous avons redefini to(String() et getPuissance(double FrequenceCoupsDePedale)
+
+Ex7 : Pour indiquer qu'on l'a redéfinit depuis une classe mère 
+
+Ex 8 : ça ne change rien c'est totalement optionnel 
+
+Ex 10 : l'appel super.getPuissance(FrequenceCoupsDePedale) permet tout simplement d'utiliser  le getPuissance() de la classe mère pour réutiliser son calcul 
