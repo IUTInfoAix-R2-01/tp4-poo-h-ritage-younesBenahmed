@@ -7,6 +7,8 @@ public class Animal {
 		this.name = name;
 	}
 
+	
+	
 	@Override
 	public String toString() {
 		return "Animal [name=" + name + "]";
